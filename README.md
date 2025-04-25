@@ -1,43 +1,49 @@
 Sravan Kumar Karrena
 
-Hello! I'm a professional with a background in Electronics & Communication Engineering, currently pursuing my MBA in Business Analytics at Utica University. I've worked in 4G/5G network operations and I'm passionate about using data and technology to create solutions.
+Hi there! 👋 I'm Sravan.
 
-Skills
+I've got a background in Electronics & Communication Engineering and I'm currently getting my MBA in Business Analytics at Utica University. That means I like both the tech side of things *and* the business/data side.
 
-Data Analysis: MS Office, Alteryx, Tableau 
+I'm all about finding ways to use technology and data to make things better. Whether it's building a system that recognizes faces or figuring out how to make traffic flow more smoothly, I'm excited to create solutions.
 
-Programming: C, C++, Java 
+What I Can Do
 
-RF Tools: TEMS, Azenqos, QGIS, MapInfo, XCall 
+Here are some of the things I'm good at:
 
-Other: LABVIEW 
+Data Stuff: I can use tools like Excel, Alteryx, and Tableau to analyze data and find patterns. 
 
-Experience
+Coding: I know a few programming languages like C, C++, and Java. 
 
-Financial Analyst (Part-Time) at Dhruv Hospitality (Feb 2025 - Present): Audited finances, managed transactions, and improved tracking.
+RF Stuff: I've worked with tools for radio frequency stuff, like TEMS and Azenqos. 
 
-5G Network Operator at Elfono Solutions/Jio (Feb 2023 - Dec 2023): Led field operations and documentation for 5G projects.
+What I've Done
 
-4G RF Engineer at Eminence Soft Tech/Airtel (Mar 2021 - Dec 2022): Coordinated teams, analyzed RF signals, and resolved site issued
+Here's a quick look at my experience:
 
-Projects
+Financial Analyst (Part-Time): At Dhruv Hospitality, I checked financial stuff to make sure it was correct. 
 
-Robust-Face-Recognition: Facial recognition using sparse representation.
-Traffic-Control-System: Smart traffic light system with IR sensors.
+5G Network Operator: I helped set up 5G networks for Jio. That involved coordinating teams and keeping track of everything. 
 
-Research: Co-authored a paper on face identification.
+4G RF Engineer: I worked on 4G networks for Airtel, making sure the signals were strong and fixing any problems. 
 
-Education
+My Projects
 
-Utica University: MBA in Business Analytics (Expected Dec 2025) 
+Want to see some of the things I've built?
 
-Bachelor of Technology: Electronics & Communication Engineering 
+Robust Face Recognition: I created a system that can recognize faces, even if they're not perfectly clear. 
 
-Connect
+Traffic Control System: I designed a smart system for traffic lights that uses sensors to change the lights. 
 
+I also helped write a research paper about how to recognize human faces. 
 
-LinkedIn: [https://www.linkedin.com/in/sravan-kumar-karrena-329368191](https://www.linkedin.com/in/sravan-kumar-karrena-329368191) 
+##   Where I Learned
 
-Email: srkarren@utica.edu
+* **Utica University:** I'm getting my MBA here, focusing on Business Analytics. 
+* **Bachelor of Technology:** I studied Electronics and Communication Engineering. 
 
-Thanks for visiting!
+##   Let's Connect!
+
+* LinkedIn: [https://www.linkedin.com/in/sravan-kumar-karrena-329368191](https://www.linkedin.com/in/sravan-kumar-karrena-329368191) 
+* Email: srkarren@utica.edu
+
+I'm always up for learning new things and working on interesting projects. Feel free to reach out!
