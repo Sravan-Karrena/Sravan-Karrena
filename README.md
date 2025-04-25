@@ -1,6 +1,6 @@
 Sravan Kumar Karrena
 
-Hi there! 👋 I'm Sravan.
+Hi there! 👋 I'm Sravan Karrena.
 
 I've got a background in Electronics & Communication Engineering and I'm currently getting my MBA in Business Analytics at Utica University. That means I like both the tech side of things *and* the business/data side.
 
