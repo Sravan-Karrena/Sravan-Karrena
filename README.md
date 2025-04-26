@@ -44,6 +44,6 @@ I also helped write a research paper about how to recognize human faces.
 ##   Let's Connect!
 
 * LinkedIn: [https://www.linkedin.com/in/sravan-kumar-karrena-329368191](https://www.linkedin.com/in/sravan-kumar-karrena-329368191) 
-* Email: srkarren@utica.edu
+* Email: sravankarrena444@gmail.com
 
 I'm always up for learning new things and working on interesting projects. Feel free to reach out!
